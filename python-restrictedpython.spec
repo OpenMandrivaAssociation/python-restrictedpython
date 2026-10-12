@@ -1,6 +1,6 @@
 Name:		python-restrictedpython
 Version:	8.5
-Release:	1
+Release:	2
 Summary:	RestrictedPython is a defined subset of the Python language which allows
 License:	ZPL-2.1
 Group:		Development/Python
